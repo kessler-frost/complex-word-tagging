@@ -1,8 +1,8 @@
 # Complex Word Identification
-This project uses machine learning to detect complex words and give hyperlinks to their meanings in a .docx file, from a given .txt file. This is a fork from a private ongoing project of ours. Currently this project is (kind of) usable by the general public (read: people who know how to run python scripts).
+This project uses machine learning to detect complex words and give hyperlinks to their meanings in a .docx file, from a given .txt file. This is a fork from a private ongoing project of ours. Currently this project is usable by the general public (read: people who know how to run python scripts).
 
 # Prerequisites
-I recommend you should use **Anaconda Distribution** to avoid any errors while execution. Also this script is written in Python 3 so make sure you are using the correct version of python before proceeding.
+I recommend using **Anaconda Distribution** to avoid any errors while execution. Also this script is written in Python 3 so make sure you are using the correct version of python before proceeding.
 
 
 There are certain packages which are required to execute this including,
