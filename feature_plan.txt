@@ -1,0 +1,33 @@
+01.length of word ~ done
+02.number of syllables ~ done
+03.number of synsets ~ done
+04.synset size ~ done
+05.number of hyponyms
+06.number of hypernyms ~ done
+07.number of synonyms ~ done
+08.number of morphemes
+09.part of speech ~ done
+10.position of word in sentence ~ done
+11.frequency of word in corpus ~ done
+12.wordnet frequency ratio
+13.named entity ~ done
+14.len(word)/len(stemmed word) word to stem length ~ done
+15.lexicon based features
+	a.Medical, Astronomy words ~ done
+	b.1000 Common English Words ~ done
+	c.Words from different languages
+	d.Old Latin, Greek or Roman words
+	e.Slangs ~ done
+16.presence in dictionary / wordnet
+17.presence in commonly used english words list ~ done
+18.presence in domain specific english word list
+19.word level n-gram frequency ~ done
+20.consecutive consonant length ~ done
+21.word origin
+22.wordnet level
+23.character position
+24.Number of parts of speech ~ done
+25.Affixation
+26.Compounding
+27.Hyphenated Words/ Words with special characters ~ done
+28.Context
